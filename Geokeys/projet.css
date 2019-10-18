@@ -1,0 +1,45 @@
+body {
+   background-color: gray;
+}.titre {
+   text-align: center;
+   color: #00f15f
+;
+   font-size: 50px;
+}.geokeys {
+   height: 150px;
+   width: 150px;
+}.map {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}.concessionnaire {
+   text-align: center;
+   color: #00f15f
+;
+   font-size: 32px;
+}select {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}.localiser {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   color:white;
+   background-color: #00f15f
+;
+}.placeholder {
+   height: 100px;
+   width: 100px;
+   color: #00f15f
+;
+}.center {
+text-align: center;
+color: #00f15f
+;
+}.centre {
+   text-align: center;
+}
+
+
+Envoyer un message à Adeline, Maxime
